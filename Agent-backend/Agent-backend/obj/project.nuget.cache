@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qlcX13W76VE=",
+  "success": true,
+  "projectFilePath": "/home/matheesha/Documents/rag-agent/agent-backend/Agent-backend/Agent-backend/Agent-backend.csproj",
+  "expectedPackageFiles": [
+    "/home/matheesha/.nuget/packages/microsoft.aspnetcore.openapi/9.0.18/microsoft.aspnetcore.openapi.9.0.18.nupkg.sha512",
+    "/home/matheesha/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
